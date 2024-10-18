@@ -1,0 +1,226 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "The dog _____ loudly at the mailman.",
+    "options": [
+      "barks",
+      "fly",
+      "danced"
+    ],
+    "correct": 0,
+    "explanation": "'Barks' is the correct action verb that shows what the dog is doing. It matches with the action of the dog."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Birds _____ in the sky.",
+    "options": [
+      "fly",
+      "eat",
+      "walk"
+    ],
+    "correct": 0,
+    "explanation": "'Fly' is the right action verb for birds. It shows what the birds are doing in the sky. They fly in the sky."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "The cat _____ on the soft pillow.",
+    "options": [
+      "sing",
+      "sleeps",
+      "flew"
+    ],
+    "correct": 1,
+    "explanation": "'Sleeps' is the correct action verb for 'The cat'. It tells us what the cat is doing on the pillow."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "I _____ my teeth every morning.",
+    "options": [
+      "brush",
+      "wash",
+      "hide"
+    ],
+    "correct": 0,
+    "explanation": "'Brush' is the right action verb to use with 'I'. It shows what you do to your teeth in the morning."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "The flowers _____ in the garden.",
+    "options": [
+      "eat",
+      "grow",
+      "fly"
+    ],
+    "correct": 1,
+    "explanation": "'Grow' is the correct action verb for flowers. It tells us what the flowers are doing in the garden. They are growing in the garden."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Which word is an action verb?",
+    "options": [
+      "happy",
+      "jump",
+      "blue"
+    ],
+    "correct": 1,
+    "explanation": "'Jump' is an action verb because it shows something you can do. 'Happy' and 'blue' are describing words, not action words."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Which is the action verb in this sentence: 'The boy kicks the ball'?",
+    "options": [
+      "boy",
+      "ball",
+      "kicks"
+    ],
+    "correct": 2,
+    "explanation": "'Kicks' is the action verb because it shows what the boy is doing to the ball."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Which word shows an action?",
+    "options": [
+      "pretty",
+      "sing",
+      "beautiful"
+    ],
+    "correct": 1,
+    "explanation": "'Sing' is an action verb because it's something you can do with your mouth. 'Pretty' and 'beautiful' describe things but don't show actions."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Which is the action verb: 'The rabbit hops in the field'?",
+    "options": [
+      "hops",
+      "rabbit",
+      "field"
+    ],
+    "correct": 0,
+    "explanation": "'Hops' is the action verb because it shows what the rabbit is doing in the field."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Which word is an action?",
+    "options": [
+      "fast",
+      "run",
+      "quick"
+    ],
+    "correct": 1,
+    "explanation": "'Run' is an action verb because it's something you can do. 'Fast' and 'quick' describe how something happens but aren't actions themselves."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "What did Felix discover while exploring the hidden path?",
+    "options": [
+      "A mountain",
+      "A glowing door",
+      "A treasure chest",
+      "A big rock"
+    ],
+    "correct": 1,
+    "explanation": "Felix found a glowing door at the base of an old tree while exploring the hidden path. This door led him to the magical adventure in the story."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "What did Felix and the owl do during their adventure?",
+    "options": [
+      "Climbed mountains and swam in lakes",
+      "Slept under a tree",
+      "Made new friends",
+      "Chased butterflies"
+    ],
+    "correct": 0,
+    "explanation": "Felix and the owl climbed mountains, swam in crystal-clear lakes, and looked for hidden treasures during their adventure."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "What did Felix wish for at the end of the story?",
+    "options": [
+      "To find more treasure",
+      "For peace in the forest",
+      "To go on another adventure",
+      "To fly like the owl"
+    ],
+    "correct": 1,
+    "explanation": "Felix wished for peace in the forest, and after his wish came true, all the animals gathered to celebrate."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "She _____ a beautiful picture.",
+    "options": [
+      "sings",
+      "draws",
+      "sleeps"
+    ],
+    "correct": 1,
+    "explanation": "'Draws' is the right action verb for 'She'. It shows what she is doing with the picture."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Which is the action word in: 'The fish swims in the pond'?",
+    "options": [
+      "fish",
+      "pond",
+      "swims"
+    ],
+    "correct": 2,
+    "explanation": "'Swims' is the action verb because it shows what the fish is doing in the pond."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Which word shows an action?",
+    "options": [
+      "jump",
+      "happy",
+      "big"
+    ],
+    "correct": 0,
+    "explanation": "'Jump' is an action verb because it's something you can do. 'Happy' and 'big' describe things but don't show actions."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which is the action in: 'The girl reads a book'?",
+    "options": [
+      "girl",
+      "reads",
+      "book"
+    ],
+    "correct": 1,
+    "explanation": "'Reads' is the action verb because it shows what the girl is doing with the book."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which word is an action?",
+    "options": [
+      "loud",
+      "shout",
+      "noisy"
+    ],
+    "correct": 1,
+    "explanation": "'Shout' is an action verb because it's something you can do with your mouth. 'Loud' and 'noisy' describe sounds but aren't actions themselves."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which is the action word in: 'The baby cries loudly'?",
+    "options": [
+      "baby",
+      "loudly",
+      "cries"
+    ],
+    "correct": 2,
+    "explanation": "'Cries' is the action verb because it shows what the baby is doing."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Look at the image and choose the correct action verb: <br> <img src='./play.png' width='160px'/>",
+    "options": [
+      "sing",
+      "play",
+      "sleep",
+      "laugh"
+    ],
+    "correct": 1,
+    "explanation": "The picture shows a boy playing with a ball. 'Play' is the action done by the boy. Therefore, 'play' is the correct action verb."
+  }
+]
